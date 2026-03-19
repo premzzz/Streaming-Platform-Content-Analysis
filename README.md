@@ -49,12 +49,12 @@ to provide a cross-platform perspective on the streaming landscape.
 ---
 
 ## 📂 Project Structure
-├── Data/
-│ ├── netflix.csv # Netflix content metadata
-│ ├── disney.csv # Disney+ content metadata
-│ └── amazon.csv # Amazon Prime Video metadata
-├── cross_platform_report.ipynb # Main analysis and visualization
-└── README.md # Project documentation
+- ├── Data/
+- │ ├── netflix.csv # Netflix content metadata
+- │ ├── disney.csv # Disney+ content metadata
+- │ └── amazon.csv # Amazon Prime Video metadata
+- ├── cross_platform_report.ipynb # Main analysis and visualization
+- └── README.md # Project documentation
 
 
 ---
